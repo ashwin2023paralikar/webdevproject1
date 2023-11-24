@@ -16,5 +16,5 @@ CSS :- CSS is used for styling and layout.
 
 JavaScript :- Javascript is used to fetch weather data.
 ## Software
-**Visual Studio Code**
-**Google Chrome**
+** Visual Studio Code **
+** Google Chrome **
